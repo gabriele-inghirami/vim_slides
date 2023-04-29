@@ -1,0 +1,15 @@
+*.aux
+*.bak
+*.bbl
+*.blg
+*.bst
+*.dvi
+*.log
+*.nav
+*.out
+*.pdf
+*.synctex.gz
+*.tex.backup
+*.tex~
+*.toc
+*.xml
