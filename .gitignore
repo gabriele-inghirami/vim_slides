@@ -8,6 +8,7 @@
 *.nav
 *.out
 *.pdf
+*.snm
 *.synctex.gz
 *.tex.backup
 *.tex~
